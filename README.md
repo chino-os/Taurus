@@ -1,2 +1,4 @@
 # Taurus
- Taurus is an amazing 
+ Taurus is an amazing document editor
+
+## 
